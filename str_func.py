@@ -1,5 +1,5 @@
 def str_func(string: str) -> str:
-    """dockstring add new changes"""
+    """dockstring add other changes"""
     return string.upper()
 
 
